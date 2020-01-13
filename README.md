@@ -1,2 +1,8 @@
-# Company-Landing-Page
-A company landing page developed with Html and Css.
+# Company Landing Page
+
+### How to use
+
+1. **clone** or **download** this **repo**.
+2. Open ```index.html``` 
+
+### Please use as you wish!
