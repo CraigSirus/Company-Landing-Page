@@ -5,4 +5,4 @@
 1. **clone** or **download** this **repo**.
 2. Open ```index.html``` 
 
-### Please use as you wish!
+### Please use the template as you wish!
